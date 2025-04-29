@@ -227,13 +227,10 @@ header .image img{
     margin: 1rem 0; /* Add spacing above and below */
 }
 
-<<<<<<< HEAD
 .project-title a:hover {
     text-decoration: underline;
 }
 
-=======
->>>>>>> 258db0a70e672b0d5a664c43218270246d4fc28a
 .project-summary {
     margin-top: 1rem; /* Add more spacing above the text */
     font-size: 1rem; /* Slightly increase font size */
